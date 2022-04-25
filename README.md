@@ -10,7 +10,7 @@ In your Laravel application -> `composer.json` file
         "repositories": [
             {
                 "type": "vcs",
-                "url": "https://git2.poscarcloud.com/laravel-trainee/report-builder"
+                "url": "https://github.com/lydenchai/report-builder"
             }
         ],
     }
